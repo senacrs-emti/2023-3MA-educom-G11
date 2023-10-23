@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33dedc103f86c4c4e85cae7977908fb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - card1: {fileID: 6010771720567810265, guid: 004eed9ac9fcb454f82b71cde37ebe64, type: 3}
+  - card2: {fileID: 8337455163803638131, guid: baca509543f3911419df37c45132b4b5, type: 3}
+  - card3: {fileID: 7790787280024230924, guid: 3bb24aef952d9884c8f078278888102a, type: 3}
+  - card4: {fileID: 6217163525472769872, guid: a5a917d0489b87a458f1054235727db1, type: 3}
+  - card5: {fileID: 5935053696737641296, guid: 7519cd0be2cec3048a187764a1c5e797, type: 3}
+  - AreadoPlayer: {fileID: 223070997281663851, guid: 64823342adf425a459ebff13607115ae, type: 3}
+  - AreaInimiga: {fileID: 323164079348272636, guid: 12f368e6207494a4595ce1ef7f5e5b25, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
