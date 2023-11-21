@@ -1,9 +1,16 @@
 fileFormatVersion: 2
-guid: ea8aa647fb54e734db5ae391ae52b31d
+guid: 7652e2dc506faa74d9a283d6ff666cf4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - card: {instanceID: 0}
+  - nomeText: {instanceID: 0}
+  - descricaoText: {instanceID: 0}
+  - artCard: {instanceID: 0}
+  - manaText: {instanceID: 0}
+  - ataqueText: {instanceID: 0}
+  - defesaText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3d010cea8f0cb849a674b2bd5914164, type: 3}
-  m_Name: Jesus Cristo
+  m_Name: Maome
   m_EditorClassIdentifier: 
-  nome: 
-  descricao: 
-  arteCard: {fileID: 0}
+  nome: Mohammed
+  descricao: Aloha Lakbah
+  arteCard: {fileID: 21300000, guid: 16c8e5932fbd8f9498b3898ef905167c, type: 3}
   manaCusto: 0
   ataque: 0
   defesa: 0
